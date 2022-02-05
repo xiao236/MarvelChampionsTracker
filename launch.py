@@ -1,12 +1,13 @@
 from tkinter import *
 from tkinter import ttk
-import villain
+import config
 
-def klaw_setup(mode,num_pl):
-    if mode:
-        villain.villain("Klaw",12*num_pl,0,2,18*num_pl,1,2)
-    else:
-        villain.villain("Klaw", 18 * num_pl, 1, 2, 22 * num_pl, 2,3)
+def clear():
+    config.possible_schemes.clear()
+    config.possible_enemies.clear()
+    config.possible_items.clear()
+    config.main_villain.clear()
+    config.main_scheme.clear()
 
 if __name__ == '__main__':
     root = Tk()
