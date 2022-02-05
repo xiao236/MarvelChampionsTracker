@@ -1,5 +1,12 @@
 from tkinter import *
 from tkinter import ttk
+import villain
+
+def klaw_setup(mode,num_pl):
+    if mode:
+        villain.villain("Klaw",12*num_pl,0,2,18*num_pl,1,2)
+    else:
+        villain.villain("Klaw", 18 * num_pl, 1, 2, 22 * num_pl, 2,3)
 
 if __name__ == '__main__':
     root = Tk()
