@@ -1,0 +1,11 @@
+Name,atk,sch,cost,desc,set
+Armored Rhino Suit,0,0,,"Forced Interrupt: When any amount of damage would be dealt to Rhino, place it here instead. Then, if there is at least 5 damage here, discard Armored Rhino Suit.",rhino
+Charge,3,0,,"Forced Interrupt: When Rhino attacks, the attack gains overkill. At the end of this attack, discard Charge.",rhino
+Enhanced Ivory Horn,1,0,3 PHYSICAL,,rhino
+Sonic Converter,1,0,"1 ENERGY, 1 PHYSICAL, 1 MENTAL","Forced Response: After Klaw attacks and damages a character, stun that character.",klaw
+Solid-Sound Body,0,0,"1 ENERGY, 1 PHYSICAL, 1 MENTAL","Klaw gains retaliate 1.",klaw
+Program Transmitter,0,1,"Exhaust & 2 MENTAL","Forced Response: After Ultron schemes, place 1 threat on each side scheme.",ultron
+Upgraded Drones,0,0,"1 ENERGY, 1 PHYSICAL, 1 MENTAL","Each facedown Drone minion gets +1 ATK and +1 hit point.",ultron
+Vibranium Armor,0,0,"Exhaust & 2 PHYSICAL","Forced Response: After the villain takes damage, give it a tough status card.",under attack
+Concussion Blasters,1,0,"Exhaust & 2 ENERGY","The villain gains retaliate 1",under attack
+Biomechnical Upgrades,0,0,,"Forced Interrupt: When attached minion would be defeated, heal all damage from it instead, then discard this card.",the doomsday chair

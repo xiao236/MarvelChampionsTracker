@@ -1,0 +1,24 @@
+name,health,atk,sch,desc,set
+Rhino I,14x,2,1,,rhino
+Rhino II,15x,3,1,,rhino
+Rhino III,16x,4,1,Toughness.,rhino
+Hydra Mercenary,3,1,0,Guard.,rhino
+Sandman,4,3,2,Toughness.,rhino
+Shocker,3,2,1,,rhino
+Klaw I,12x,0,2,"Forced Interrupt: When Klaw attacks, give him 1 additional boost card for this activation.",klaw
+Klaw II,18x,1,2,"Forced Interrupt: When Klaw attacks, give him 1 additional boost card for this activation.",klaw
+Klaw III,22x,2,3,"Toughness. Forced Interrupt: When Klaw attacks, give him 1 additional boost card for this activation.",klaw
+Armored Guard,3,1,0,Guard. Toughness.,klaw
+Weapons Runner,2,1,1,Surge.,klaw
+Ultron I,17x,2,1,"Forced Response: After Ultron attacks you, choose to either place 1 threat on the main scheme or put the top card of your deck into play facedown, engaged with you as a Drone Minion.",ultron
+Ultron II,22x,2,2,"Forced Response: After Ultron attacks you, choose to either place 1 threat on the main scheme or put the top card of your deck into play facedown, engaged with you as a Drone Minion. Until the end of this attack, Ultron gets +1 ATK for each Drone minion engaged with you.",ultron
+Ultron III,27x,4,2,"Each Drone minion gets +1 ATK and +1 hit point. Ultron cannot take damage while a Drone minion is in play.",ultron
+Advanced Ultron Drone,4,1,1,"Guard. Forced Interrupt: When Advanced Ultron Drone is defeated, the engaged player puts the top card of their deck into play facedown, engaged with them as a Drone Minion.",ultron
+Madame Hydra,6,2,2,"Madame Hydra cannot take damage while the Legions of Hydra side scheme is in play. Forced Response: After Madame Hydra schemes or attacks, place 2 threat on the Legions of Hydra side scheme.",legions of hydra
+Hydra Soldier,4,2,1,"Guard. When Defeated: Deal the engaged player an encounter card.",legions of hydra
+Radioactive Man,7,1,1,"Forced Response: After Radioactive Man attacks you, discard 1 card at random from your hand.",masters of evil
+Whirlwind,6,2,1,"Forced Interrupt: When Whirlwind attacks you, also resolve his attack against each other hero.",masters of evil
+Tiger Shark,6,3,1,"Forced Response: After Tiger Shark attacks, give him a tough status card.",masters of evil
+Melter,5,3,1,"The engaged player must defend against Melter's attacks with an ally they control, if able.",masters of evil
+Hydra Bomber,2,1,1,,bomb scare
+MODOK,8,2,2,"Retaliate 2.",the doomsday chair
