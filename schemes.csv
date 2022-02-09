@@ -1,20 +1,20 @@
-Name,start,inc,end,key,desc,set
-The Break-In!,0,1x,7x,,"If this stage is completed, the players lose the game.",rhino
-Breakin' & Takin',2,0,0,HAZ,,rhino
-Crowd Control,2x,0,0,CRI,,rhino
-Underground Distribution,0,1x,6x,,,klaw
-Secret Rendezvous,0,1x,8x,,"If this stage is completed, the players lose the game.",klaw
-Defense Network,2,0,0,CRI,,klaw
-Illegal Arms Factory,3,0,0,HAZ,,klaw
-The "Immortal" Klaw,3x,0,0,ACC,,klaw
-The Crimson Cowl,0,1x,3x,,,ultron
-Assault on NORAD,0,1x,10x,,"Forced Response: After placing threat here during step 1 of the villain phase, each player must choose to either place 2 threat here or put the top card of their deck into play facd down, engaged with them as a Drone minion.",ultron
-Countdown to Oblivion,0,1x,5x,,"Threat cannot be removed from this scheme. If this stage is completed, the players lose the game.",ultron
-Drone Factory,4,0,0,ACC,,ultron
-Invasive AI,3x,0,0,HAZ,,ultron
-Ultron's Imperative,2x,0,0,HAZ,,ultron
-Legions of Hydra,3,0,0,HAZ,,legions of hydra
-The Masters of Evil,3x,0,0,ACC,,masters of evil
-Bomb Scare,2,0,0,ACC,,bomb scare
-Under Attack,3,0,0,CRI,,under attack
-The Doomsday Chair,8,0,0,ACC,,the doomsday chair
+Name,type,start,inc,end,key,desc,set
+The Break-In!,main,0,1x,7x,,"If this stage is completed, the players lose the game.",rhino
+Breakin' & Takin',side,2,0,0,HAZ,,rhino
+Crowd Control,side,2x,0,0,CRI,,rhino
+Underground Distribution,main,0,1x,6x,,,klaw
+Secret Rendezvous,main,0,1x,8x,,"If this stage is completed, the players lose the game.",klaw
+Defense Network,side,2,0,0,CRI,,klaw
+Illegal Arms Factory,side,3,0,0,HAZ,,klaw
+The "Immortal" Klaw,side,3x,0,0,ACC,,klaw
+The Crimson Cowl,main,0,1x,3x,,,ultron
+Assault on NORAD,main,0,1x,10x,,"Forced Response: After placing threat here during step 1 of the villain phase, each player must choose to either place 2 threat here or put the top card of their deck into play facd down, engaged with them as a Drone minion.",ultron
+Countdown to Oblivion,main,0,1x,5x,,"Threat cannot be removed from this scheme. If this stage is completed, the players lose the game.",ultron
+Drone Factory,side,4,0,0,ACC,,ultron
+Invasive AI,side,3x,0,0,HAZ,,ultron
+Ultron's Imperative,side,2x,0,0,HAZ,,ultron
+Legions of Hydra,side,3,0,0,HAZ,,legions of hydra
+The Masters of Evil,side,3x,0,0,ACC,,masters of evil
+Bomb Scare,side,2,0,0,ACC,,bomb scare
+Under Attack,side,3,0,0,CRI,,under attack
+The Doomsday Chair,side,8,0,0,ACC,,the doomsday chair
