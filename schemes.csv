@@ -6,7 +6,7 @@ Underground Distribution,main,0,1x,6x,,,klaw
 Secret Rendezvous,main,0,1x,8x,,"If this stage is completed, the players lose the game.",klaw
 Defense Network,side,2,0,0,CRI,,klaw
 Illegal Arms Factory,side,3,0,0,HAZ,,klaw
-The \"Immortal\" Klaw,side,3x,0,0,ACC,,klaw
+The IMMORTAL Klaw,side,3x,0,0,ACC,,klaw
 The Crimson Cowl,main,0,1x,3x,,,ultron
 Assault on NORAD,main,0,1x,10x,,"Forced Response: After placing threat here during step 1 of the villain phase, each player must choose to either place 2 threat here or put the top card of their deck into play facd down, engaged with them as a Drone minion.",ultron
 Countdown to Oblivion,main,0,1x,5x,,"Threat cannot be removed from this scheme. If this stage is completed, the players lose the game.",ultron
@@ -18,3 +18,16 @@ The Masters of Evil,side,3x,0,0,ACC,,masters of evil
 Bomb Scare,side,2,0,0,ACC,,bomb scare
 Under Attack,side,3,0,0,CRI,,under attack
 The Doomsday Chair,side,8,0,0,ACC,,the doomsday chair
+Unleashing the Mutagen,main,2x,1x,7x,,"When Completed: In player order, each player not engaged with a Goblin minion must discard 3 cards from the encounter deck and put the first Goblin minion they discarded this way into play engaged with them.",mutagen formula
+Mutagen Cloud,main,4x,0,11x,,"INC is equal to the number of Goblin enemies (including Green Goblin) in play. If this stage is completed, the players lose the game.",mutagen formula
+Goblin Reinforcements,side,2,0,0,HAZ,,mutagen formula
+Goblin Nation,side,2x,0,0,,"Each Goblin enemy (including Green Goblin) gets +1 ATK",mutagen formula
+Overrun,side,1x,0,0,ACC/ACC,"When Defeated: In player order, each player must discard 2 cards from the encounter deck and put each Goblin minion they discarded this way into play engaged with them.",mutagen formula
+Hostile Takeover,main,2x,1x,7x,,"When Completed, Place 1x infamy counters on Criminal Enterprise. Then, discard 1 card from each player's deck for each infamy counter on Criminal Enterprise.",risky business
+Corporate Acquisition,main,1x,2x,10x,HAZ,"If this stage is completed, the players lose the game.",risky business
+Collapsing Bridge,side,2x,0,0,CRI,,risky business
+Oscorp Manufacturing,side,2x,0,0,ACC,,risky business
+Payoff,side,2x,0,0,HAZ,,risky business 
+A Mess of Things,side,2,0,0,HAZ,,a mess of things
+Power Drain,side,2x,0,0,ACC,"When Defeated: Discard 2 cards from the encounter deck. Each player must choose and discard 1 resource of any type from their hand for each boost icon discarded this way.",power drain
+Running Interference,1x,0,0,CRI,,running interference
