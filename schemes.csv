@@ -30,4 +30,4 @@ Oscorp Manufacturing,side,2x,0,0,ACC,,risky business
 Payoff,side,2x,0,0,HAZ,,risky business 
 A Mess of Things,side,2,0,0,HAZ,,a mess of things
 Power Drain,side,2x,0,0,ACC,"When Defeated: Discard 2 cards from the encounter deck. Each player must choose and discard 1 resource of any type from their hand for each boost icon discarded this way.",power drain
-Running Interference,1x,0,0,CRI,,running interference
+Running Interference,side,1x,0,0,CRI,,running interference
