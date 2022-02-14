@@ -22,3 +22,18 @@ Tiger Shark,minion,6,3,1,"Forced Response: After Tiger Shark attacks, give him a
 Melter,minion,5,3,1,"The engaged player must defend against Melter's attacks with an ally they control, if able.",masters of evil
 Hydra Bomber,minion,2,1,1,,bomb scare
 MODOK,minion,8,2,2,"Retaliate 2.",the doomsday chair
+Green Goblin I,villain,16x,2,1,"Forced Response: After Green Goblin attacks and damages you, place 1 threat on the main scheme.",mutagen formula
+Green Goblin II,villain,18x,2,2,"Forced Response: After Green Goblin attacks and damages you, place 1 threat on the main scheme.",mutagen formula
+Green Goblin III,villain,20x,3,2,"Forced Response: After Green Goblin attacks and damages you, place 2 threat on the main scheme.",mutagen formula
+Goblin Knight,minion,7,2,2,"Forced Response: After Goblin Knight attacks you, discard 1 card from the encounter deck. If that card is a Goblin minion, put it into play engaged with you.",mutagen formula
+Goblin Soldier,minion,5,1,1,"When Defeated: Deal 1 damage to the engaged player.",mutagen formula
+Goblin Thrall,minion,3,1,1,"Guard.",mutagen formula
+Monster,minion,6,3,1,,mutagen formula
+Green Goblin/Norman Osborn I,villain,14x,3,2,,risky business
+Green Goblin/Norman Osborn II,villain,18x,4,2,,risky business
+Green Goblin/Norman Osborn III,villain,22x,4,3,,risky business
+Hired Gun,minion,3,2,2,,risky business
+Private Security Specialist,minion,4,1,0,"Guard.",risky business
+Scorpion,minion,7,3,3,"Quickstrike. Forced Response: After Scorpion attacks and damages a character, stun that character.",a mess of things
+Electro,minion,6,2,2,"Forced Response: After Electro attacks you, discard 1 card from the encounter deck. Take 1 indirect damage for each boost icon discarded this way.",power drain
+Tombstone,minion,9,3,2,"Forced Response: After tombstone attacks and damages you, discard a MENTAL or PHYSICAL resource from your hand, if able.",running interference
