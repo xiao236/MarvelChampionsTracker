@@ -31,3 +31,13 @@ Payoff,side,2x,0,0,HAZ,,risky business
 A Mess of Things,side,2,0,0,HAZ,,a mess of things
 Power Drain,side,2x,0,0,ACC,"When Defeated: Discard 2 cards from the encounter deck. Each player must choose and discard 1 resource of any type from their hand for each boost icon discarded this way.",power drain
 Running Interference,side,1x,0,0,CRI,,running interference
+Personal Challenge,side,3,0,0,CRI,,she hulk
+Highway Robbery,side,3x,0,0,ACC,"When Defeated: Return each facedown card here to its owner's hand.",spiderman
+Usurp the Throne,side,3x,0,0,HAZ,,black panther
+The Psyche Magnitron,side,3,0,0,HAZ,,captain marvel
+Killer for Hire,side,3,0,0,ACC,,black widow
+Family Feud,side,2,0,0,ACC,,thor
+Generation Why?,side,2x,0,0,HAZ,,ms marvel
+Imminent Overload,side,3,0,0,ACC,,ironman
+Hit Squad,side,3x,0,0,ACC,,captain america
+Open the Dark Dimension,side,3x,0,0,ACC,"When Defeated: Shuffle the invocation card under here into the invocation deck.",doctor strange
